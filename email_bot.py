@@ -5,10 +5,10 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import time
 # Set up your email credentials
-EMAIL_ADDRESS = "mo.badrawy.2022@gmail.com"
+EMAIL_ADDRESS = ""
 # Put the 16-character app password here (without spaces)
-APP_PASSWORD = "ycjx xjge ebfx qquy" 
-IMAP_SERVER = "imap.gmail.com"
+APP_PASSWORD = "" 
+IMAP_SERVER = ""
 
 
 while True:
