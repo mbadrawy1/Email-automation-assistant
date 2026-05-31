@@ -2,7 +2,7 @@
 .env
 .env.*
 *.key
-
+.env.example
 # Python
 __pycache__/
 *.py[cod]
